@@ -11,7 +11,7 @@ This App is Used in our daily life. Our app shows all types of news. In real-tim
 
 
 - News With Sport Category
-- 
+
 ![HomeSport](https://user-images.githubusercontent.com/80502799/215190804-fb058b52-21f2-40a5-ba04-ca78b15deb02.png)
 -
 
