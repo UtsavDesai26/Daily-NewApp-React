@@ -6,10 +6,12 @@ This App is Used in our daily life. Our app shows all types of news. In real-tim
 
 #### News With Different Category
 - News With Business Category
+
 ![HomeBusiness](https://user-images.githubusercontent.com/80502799/215190796-c1919393-9029-4698-b6c6-f79a45c8e62b.png)
 
 
 - News With Sport Category
+- 
 ![HomeSport](https://user-images.githubusercontent.com/80502799/215190804-fb058b52-21f2-40a5-ba04-ca78b15deb02.png)
 -
 
